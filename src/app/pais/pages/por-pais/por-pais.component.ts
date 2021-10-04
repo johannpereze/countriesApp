@@ -12,6 +12,7 @@ export class PorPaisComponent {
   termino: string = '';
   hayError: boolean = false;
   paises: Country[] = [];
+  placeHolder:string='Buscar País...'
 
   constructor(private paisService: PaisService) {}
 
