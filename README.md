@@ -1,8 +1,8 @@
-# CountrysApp
+# CountriesApp
 
 Live Version: [Click Here](https://countrys-by-johannpereze.netlify.app/)
 
-Web App to get information of all countrys in the world
+Web App to get information of all countries in the world
 
 
 ## Angular Info
